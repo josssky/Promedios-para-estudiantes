@@ -8,7 +8,7 @@ Este es un programa muy tranqui hecho en python
 - Hace un calculo del promedio de las tres
 - Te da el promedio y te dice si reprobaste o no
 
-##Como usalo?
+##Como usarlo?
 
 1. Abre una terminal en la carpeta del proyecto con shift + click derecho
 2.Escribe
