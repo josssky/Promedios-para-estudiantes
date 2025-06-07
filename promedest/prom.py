@@ -7,7 +7,7 @@ nota3=float(input("Escriba su tercera nota: "))
 prom=(nota1+nota2+nota3) /3
 
 #Resultado de pasar o no
-if prom=>65:
+if prom >= 65:
     print("Aprobado")
 else:
     print("Reprobado")
