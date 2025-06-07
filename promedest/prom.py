@@ -8,6 +8,6 @@ prom=(nota1+nota2+nota3) /3
 
 #Resultado de pasar o no
 if prom >= 65:
-    print("Aprobado")
+    print(f"Aprobado, {prom} esta es tu nota")
 else:
-    print("Reprobado")
+    print("Reprobado, {prom} esta es tu nota")
